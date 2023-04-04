@@ -1,2 +1,2 @@
 ogog
-![Alt text](capture.png)
+![Alt text](Capture.PNG)
